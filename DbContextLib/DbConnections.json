@@ -1,0 +1,8 @@
+﻿{
+  "ConnectionStrings": {
+    "SQLServer_seidowebservice": "Data Source=localhost;Initial Catalog=SeidoWebService_SQLServer;Trusted_Connection=True",
+    "MariaDB_seidowebservice": "server=localhost;uid=martin;pwd=seidoab;database=seidowebservice",
+    "SQLite_seidowebservice_win11": "Data Source=C:\\Users\\marti\\Development\\Databases\\SeidoWebService_SQLite.db",
+    "SQLite_seidowebservice_macOS": "Data Source=/Users/Martin/Development/Databases/SeidoWebService_SQLite.db"
+  }
+}
